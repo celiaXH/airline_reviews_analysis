@@ -20,7 +20,7 @@ The customer feedback analysis project offers an exciting opportunity to make a 
 **Requirements:** ```pip install -r requirements.txt```
 
 ## Web Scraping In Azure Function
-Built a **web scraper** using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to scrape 10,000  reviews for each airlines from [skytrax](https://www.airlinequality.com/), an Airline rewiew website.For each review, I retrieved the following top 10 Airlines in Europe based on [List of largest airlines in Europe](https://en.wikipedia.org/wiki/List_of_largest_airlines_in_Europe):
+Built a **web scraper** using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to scrape 10,000  reviews for each airlines from [skytrax](https://www.airlinequality.com/), an Airline rewiew website. For each review, I retrieved the following top 10 Airlines in Europe based on [List of largest airlines in Europe](https://en.wikipedia.org/wiki/List_of_largest_airlines_in_Europe):
 * Lufthansa
 * Turkish-Airlines 2310
 * Air France 1254
