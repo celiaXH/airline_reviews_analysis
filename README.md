@@ -54,11 +54,11 @@ Here are some interesting insights I found:
 * Air France has highest reputation with 57.9% of positive commend and mainly from single travelers.
 
 <p align="center">
-<img src="https://github.com/celiaXH/airline_reviews_analysis/blob/main/input/slides_1.jpg" width="718" height="501">
+<img src="https://github.com/celiaXH/airline_reviews_analysis/blob/main/input/slides_2.JPG" width="718" height="501">
 </p>
 
 <p align="center">
-<img src="https://github.com/celiaXH/airline_reviews_analysis/blob/main/input/slides_2.jpg" width="718" height="501">
+<img src="https://github.com/celiaXH/airline_reviews_analysis/blob/main/input/slides_3.JPG" width="718" height="501">
 </p>
 
 
