@@ -22,15 +22,15 @@ The customer feedback analysis project offers an exciting opportunity to make a 
 ## Web Scraping In Azure Function
 Built a **web scraper** using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to scrape 10,000  reviews for each airlines from [skytrax](https://www.airlinequality.com/), an Airline rewiew website. For each review, I retrieved the following top 10 Airlines in Europe based on [List of largest airlines in Europe](https://en.wikipedia.org/wiki/List_of_largest_airlines_in_Europe):
 * Lufthansa
-* Turkish-Airlines 2310
+* Turkish-Airlines 
 * Air France 1254
 * British Airways
-* KL-royal-dutch-airlines 1477
-* Finnair 800
-* Swiss swiss-international-air-lines 900
-* SAS Group 800
-* EasyJet easyjet 1000
-* Ryanair  1000
+* KL-royal-dutch-airlines 
+* Finnair 
+* Swiss swiss-international-air-lines 
+* SAS Group 
+* EasyJet easyjet 
+* Ryanair 
 
 ## Data Cleaning and Preprocessing
 * The imputation of key satisfaction factors(which is rate max of 5) were taken by spliting two groups(Top8, and low cost airlines).   
