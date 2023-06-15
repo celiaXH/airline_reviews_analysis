@@ -1,4 +1,4 @@
-# Customer Reviews and Sentiment Analysis to Uncover Findings for Top10 European Airlines 
+# Customer Reviews and Sentiment Analysis for Top10 European Airlines 
 
 <p align="center">
 <img src="https://github.com/celiaXH/airline_reviews_analysis/blob/main/input/cover.jpg" width="718" height="501">
