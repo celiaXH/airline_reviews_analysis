@@ -1,0 +1,5 @@
+REWIEWS_PATH = "./input/airlines_reviews.csv"
+REWIEWS_CLEANED_PATH ="./input/airlines_reviews_cleaned.csv"
+REWIEWS_PARSED_PATH ="./input/airlines_reviews_parsed.csv"
+REWIEWS_SEN_PATH ="./input/airlines_reviews_sen.csv"
+REWIEWS_SEN_CLEANED_PATH ="./input/airlines_reviews_sen_cleaned.csv"
