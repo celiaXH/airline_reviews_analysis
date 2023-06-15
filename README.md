@@ -9,7 +9,7 @@
 * Reviews data including seat comfort, food&Beverage, inflight entertainment and recommendation etc. were  
   cleaned and performed EDA.
 * To conduct sentimetnt analysis on comment, I used lexicon-based approaches with VADER.
-* The final result we demostrated and visualization as a Power BI report.
+* The final result were demostrated and visualization as a Power BI report.
    
 ## Motivation
 The customer feedback analysis project offers an exciting opportunity to make a tangible impact for airline companies who aiming at enhance customer satisfaction, drive innovation, and contribute reputation. It is also a project that combines analytical skills and data visualization with the ability to influence key decisions, fostering personal and professional growth while creating a positive impact on both the company and its customers.
