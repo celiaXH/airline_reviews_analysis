@@ -1,7 +1,7 @@
 # Customer Reviews and Sentiment Analysis to Uncover Findings for Top10 European Airlines 
 
 <p align="center">
-<img src="https://github.com/celiaXH/airline_reviews_analysis/input/cover.JPG" width="718" height="501">
+<img src="https://github.com/celiaXH/airline_reviews_analysis/blob/main/input/cover.jpg" width="718" height="501">
 </p>
 
 ## Project Overview
